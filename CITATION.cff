@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+
+type: dataset
+
+title: "Ecuadorian Credit Risk and Borrower Behavior Dataset"
+
+abstract: >-
+  This dataset contains 198,800 anonymized credit observations from
+  Ecuador's cooperative and financial sector, covering consumer and
+  microcredit products. It supports credit-risk research, including
+  the prediction of adverse credit performance over a 12-month horizon,
+  feature selection, temporal validation, and model explainability.
+
+authors:
+  - family-names: "Aval"
+    # affiliation: "Aval"
+
+version: "1.0.0"
+date-released: "2026-10-21"
+
+repository: "https://github.com/datosabiertosAval/ecuadorianCreditRisk"
+url: "https://github.com/datosabiertosAval/ecuadorianCreditRisk"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - credit risk
+  - credit behavior
+  - consumer credit
+  - microcredit
+  - default prediction
+  - adverse credit performance
+  - explainable machine learning
+  - tabular data
+  - Ecuador
